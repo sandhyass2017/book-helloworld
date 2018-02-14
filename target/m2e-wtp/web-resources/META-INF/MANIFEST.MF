@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SampleApp
+Implementation-Version: 1.0
+Built-By: 368221
+Implementation-Vendor-Id: SampleApp
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/SampleApp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
